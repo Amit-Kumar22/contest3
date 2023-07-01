@@ -135,15 +135,16 @@ header{
      background-color: rgb(12, 131, 31);
 color: white;
 font-size: 14px;
-font-weight: 600;
-border-radius: 8px;
+font-weight: 700;
+border-radius: 5px;
 display: flex;
 align-items: center;
 justify-content: center;
+     margin-right: 18px;
 }
 .header-right svg{
     width: 24px;
-    margin-right: 8px;
+    margin-right: 12px;
 }
 /* main */
 main{
